@@ -1,0 +1,6 @@
+version: '2.1'
+
+services:
+  hyper-func-reverser:
+    image: mattipaksula/hyper-func-reverser
+    build: .
